@@ -1,5 +1,13 @@
 # MAHIR MUSIK
 
+---
+title: Mahir Music
+sdk: docker
+app_port: 7860
+---
+
+
+
 Aplikasi manajemen kursus musik berbasis Laravel 11. Tema gelap hitam-kuning.
 
 Fitur utama:
